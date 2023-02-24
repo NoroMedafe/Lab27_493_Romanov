@@ -1,0 +1,23 @@
+com/example/lab_16_MapAPI/MapView.java
+ com.example.lab_16_MapAPI.MapView
+ com.example.lab_16_MapAPI.MapView$1
+ com.example.lab_16_MapAPI.MapView$2
+com/example/lab_16_MapAPI/BuildConfig.java
+ com.example.lab_16_MapAPI.BuildConfig
+com/example/lab_16_MapAPI/MainActivity.java
+ com.example.lab_16_MapAPI.MainActivity
+com/example/lab_16_MapAPI/model/Tile.java
+ com.example.lab_16_MapAPI.model.Tile
+ com.example.lab_16_MapAPI.model.Tile$1
+com/example/lab_16_MapAPI/APIHelper.java
+ com.example.lab_16_MapAPI.APIHelper
+ com.example.lab_16_MapAPI.APIHelper$NetOp
+com/example/lab_16_MapAPI/DB.java
+ com.example.lab_16_MapAPI.DB
+com/example/lab_16_MapAPI/model/Shape.java
+ com.example.lab_16_MapAPI.model.Shape
+com/example/lab_16_MapAPI/Activity_Setting.java
+ com.example.lab_16_MapAPI.Activity_Setting
+ com.example.lab_16_MapAPI.Activity_Setting$1
+com/example/lab_16_MapAPI/Activity_Map.java
+ com.example.lab_16_MapAPI.Activity_Map

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab 16 MapAPI</string>
+    <string name="btn_UpScale">+</string>
+    <string name="btn_DownScale">-</string>
+    <string name="tv_Setting">Окно настроек</string>
+    <string name="edAPI_hint">Адрес API</string>
+    <string name="edLifetimeTile_hint">Время кэширования</string>
+    <string name="btnSave">Сохранить</string>
+    <string name="btnCancel">Выйти</string>
+    <string name="btnSetting">Настройки</string>
+    <string name="chCoastline">Береговая линия</string>
+    <string name="chRiver">Реки</string>
+    <string name="chRoad">Дороги</string>
+    <string name="chRailroad">Железные дороги</string>
+    <string name="strDismissColor">Цвет не выбран</string>
+</resources>
